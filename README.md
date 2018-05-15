@@ -1,0 +1,11 @@
+# Erlang Fixed Point Method vs Exact-Product Form Solution
+![alt text](https://github.com/saikrishh123/erlang/blob/master/four-city-problem/four-city-problem-01.jpg)
+![alt text](https://github.com/saikrishh123/erlang/blob/master/four-city-problem/four-city-problem-02.jpg)
+![alt text](https://github.com/saikrishh123/erlang/blob/master/four-city-problem/four-city-problem-03.jpg)
+![alt text](https://github.com/saikrishh123/erlang/blob/master/four-city-problem/four-city-problem-04.jpg)
+![alt text](https://github.com/saikrishh123/erlang/blob/master/four-city-problem/four-city-problem-05.jpg)
+![alt text](https://github.com/saikrishh123/erlang/blob/master/four-city-problem/four-city-problem-06.jpg)
+![alt text](https://github.com/saikrishh123/erlang/blob/master/four-city-problem/four-city-problem-07.jpg)
+![alt text](https://github.com/saikrishh123/erlang/blob/master/four-city-problem/four-city-problem-08.jpg)
+![alt text](https://github.com/saikrishh123/erlang/blob/master/four-city-problem/four-city-problem-09.jpg)
+![alt text](https://github.com/saikrishh123/erlang/blob/master/four-city-problem/four-city-problem-010.jpg)
